@@ -2,12 +2,13 @@
 
 app.js (callbacks)
 app-promise (promises via axios) 
+================================
 Installation
-============
+------------
 npm install
 
 Run
-===
+---
 node app-promise.js -a <address>
 
 node app.js -a <address>
